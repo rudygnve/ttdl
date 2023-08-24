@@ -153,9 +153,7 @@ export default function Home() {
           !loading ? (
             <div className="w-full flex items-center justify-center mb-10">
               <div className="w-full max-w-[350px] mx-auto flex flex-col gap-2">
-                <Image
-                  width={350}
-                  height={350}
+                <img
                   src={data?.cover}
                   className="w-full aspect-square object-cover object-center"
                 />
