@@ -13,7 +13,7 @@ import axios from "axios";
 import { getRandomBanner } from "@/lib/functions";
 import AdHeader from "@/components/AdHeader";
 import Link from "next/link";
-import { Image } from "next/image"
+import Image from "next/image"
 
 const inter = Inter({ subsets: ["latin"] });
 
