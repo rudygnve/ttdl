@@ -291,7 +291,7 @@ export default function Home() {
         <div className="flex flex-col gap-12 w-full">
           <div className="flex flex-col sm:flex-row items-center gap-5 sm:gap-20">
             <img
-              src="/assets/1.png"
+              src="https://res.cloudinary.com/dyullsyz7/image/upload/v1692899544/vgoxxrszw4pb4drmurln.png"
               className="max-w-[300px] w-full"
               alt="TTDL Step 1"
             />
@@ -316,14 +316,14 @@ export default function Home() {
               </p>
             </div>
             <img
-              src="/assets/2.png"
+              src="https://res.cloudinary.com/dyullsyz7/image/upload/v1692899800/rx1sf1rjbn8gp9lbsgay.png"
               className="max-w-[300px] w-full"
               alt="TTDL Step 2"
             />
           </div>
           <div className="flex flex-col sm:flex-row items-center gap-5 sm:gap-20">
             <img
-              src="/assets/3.png"
+              src="https://res.cloudinary.com/dyullsyz7/image/upload/v1692899800/p5y9cdzfscvmu3y0o56t.png"
               className="max-w-[300px] w-full"
               alt="TTDL Step 3"
             />
@@ -349,7 +349,7 @@ export default function Home() {
               </p>
             </div>
             <img
-              src="/assets/4.png"
+              src="https://res.cloudinary.com/dyullsyz7/image/upload/v1692899802/aqnhnkuiejrbtadqq9az.png"
               className="max-w-[300px] w-full"
               alt="TTDL Step 4"
             />
