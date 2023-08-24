@@ -16,7 +16,7 @@ export default function Document() {
         content="Free TikTok Video Downloader Without Watermark"
       />
       <meta
-        property="description"
+        name="description"
         content="TTDL is a free TikTok Video Downloader without watermark website. It allows users to download their favorite TikTok videos without any watermark or logo."
       ></meta>
       <meta property="og:url" content="https://ttdl-six.vercel.app/" />
