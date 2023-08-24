@@ -90,3 +90,5 @@ export const banners = [
     affLink: "https://bluehost.sjv.io/c/3239329/1465846/11352",
   },
 ];
+
+export const SITEURI = "https://ttdl-six.vercel.app"
