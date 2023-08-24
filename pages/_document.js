@@ -26,8 +26,7 @@ export default function Document() {
       />
       <meta property="og:type" content="website" />
       <meta property="og:image" content="" />
-      <script src="/assets/main.js"></script>
-                <script type="application/ld+json">
+      <script type="application/ld+json">
         {"{"}
         "@context": "https://schema.org/", "@type": "WebSite", "name": "TTDL",
         "url": "https://ttdl-six.vercel.app/", "potentialAction": {"{"}
