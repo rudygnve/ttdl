@@ -1,6 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import Logo from "./Logo";
+import { SITEURI } from "@/data";
 
 const Navbar = () => {
   return (
@@ -10,7 +11,7 @@ const Navbar = () => {
         <li>
           <Link
             className="text-slate-800 font-medium"
-            href="http://localhost:3000/#howtouse"
+            href={`${SITEURI}#howtouse`}
           >
             How It Works?
           </Link>
