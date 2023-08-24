@@ -1,5 +1,3 @@
-import { uid } from "uid";
-
 export const faqs = [
   {
     question: "Is TTDL completely free to use?",
@@ -58,21 +56,6 @@ export const faqs = [
     question: "Is TTDL affiliated with TikTok?",
     answer:
       "No, TTDL is not affiliated with TikTok or its parent company. It is an independent tool designed to help you download TikTok videos without watermarks.",
-  },
-];
-
-export const picLinks = [
-  {
-    id: uid(8),
-    url: "/assets/sample.jpeg",
-  },
-  {
-    id: uid(8),
-    url: "/assets/sample1.jpeg",
-  },
-  {
-    id: uid(8),
-    url: "/assets/sample2.jpeg",
   },
 ];
 
