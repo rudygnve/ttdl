@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <meta charSet="utf-8" />
-      <title>TTDL - Free TikTok Video Downloader</title>
+      <title>TTDL - Free TikTok Video Downloader Without Watermark</title>
       <link rel="canonical" href="https://ttdl-six.vercel.app/" />
       <meta
         property="og:title"
