@@ -296,7 +296,7 @@ export default function Home() {
             <Image
               width={300}
               height={300}
-              src="https://res.cloudinary.com/dyullsyz7/image/upload/v1692899544/vgoxxrszw4pb4drmurln.png"
+              src="/assets/1.png"
               className="max-w-[300px] w-full"
               alt="TTDL Step 1"
             />
@@ -323,7 +323,7 @@ export default function Home() {
             <Image
               width={300}
               height={300}
-              src="https://res.cloudinary.com/dyullsyz7/image/upload/v1692899800/rx1sf1rjbn8gp9lbsgay.png"
+              src="/assets/2.png"
               className="max-w-[300px] w-full"
               alt="TTDL Step 2"
             />
@@ -332,7 +332,7 @@ export default function Home() {
             <Image
               width={300}
               height={300}
-              src="https://res.cloudinary.com/dyullsyz7/image/upload/v1692899800/p5y9cdzfscvmu3y0o56t.png"
+              src="/assets/3.png"
               className="max-w-[300px] w-full"
               alt="TTDL Step 3"
             />
@@ -360,7 +360,7 @@ export default function Home() {
             <Image
               width={300}
               height={300}
-              src="https://res.cloudinary.com/dyullsyz7/image/upload/v1692899802/aqnhnkuiejrbtadqq9az.png"
+              src="/assets/4.png"
               className="max-w-[300px] w-full"
               alt="TTDL Step 4"
             />
