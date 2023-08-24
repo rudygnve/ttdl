@@ -138,27 +138,9 @@ export default function Home() {
 
   return (
     <main className="w-full max-w-5xl mx-auto px-3">
-      {/* <Helmet>
-        <meta charSet="utf-8" />
-        <title>TTDL - Free TikTok Video Downloader</title>
-        <link rel="canonical" href="https://ttdl-six.vercel.app/" />
-        <meta
-          property="og:title"
-          content="Free TikTok Video Downloader Without Watermark"
-        />
-        <meta
-          property="og:site_name"
-          content="Free TikTok Video Downloader Without Watermark"
-        />
-        <meta property="og:url" content="https://ttdl-six.vercel.app/" />
-        <meta
-          property="og:description"
-          content="TTDL is a free TikTok Video Downloader without watermark website. It allows users to download their favorite TikTok videos without any watermark or logo."
-        />
-        <meta property="og:type" content="website" />
-        <meta property="og:image" content="" />
+      <Helmet>
         <script src="/assets/main.js"></script>
-      </Helmet> */}
+      </Helmet>
       <Navbar />
       <section className="py-8 sm:py-16 w-full h-auto flex items-center justify-center flex-col">
         <h1 className="text-slate-800 text-center font-extrabold text-3xl sm:text-5xl mb-3 sm:mb-8">
